@@ -1,5 +1,5 @@
 # Literal ints to numerical Ints
-This script helps you converting literal ints inside of a file to numerical ints inside of an usable array.
+This script helps you convert literal ints inside of a file to numerical ones inside of an usable array.
 The file must be written like this:
 
 two one four
